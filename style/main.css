@@ -12,20 +12,20 @@ body {
 }
 
 .faro {
-    width: 350px;
+    width: 340px;
     display: flex;
     margin: auto;
-    margin-bottom: 18px;
+    margin-bottom: 15px;
 }
 
 .botao {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     align-items: center;
 }
 
 .btn {
-    margin-top: 25px;
+    margin-top: 22px;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
     align-items: center;
@@ -37,7 +37,7 @@ body {
 p {
     margin-top: 0;
     margin-bottom: 5px;
-    font-size: 15px;
+    font-size: 12px;
     color: #fff;
 }
 
