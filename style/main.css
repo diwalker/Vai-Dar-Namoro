@@ -19,6 +19,7 @@ body {
     width: 340px;
     display: flex;
     margin: auto;
+    margin-top: 30px;
     margin-bottom: 15px;
 }
 
