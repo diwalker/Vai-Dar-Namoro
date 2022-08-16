@@ -15,6 +15,10 @@ body {
     height: 100vh;
 }
 
+.container {
+    margin-top: 30px;
+}
+
 .faro {
     width: 340px;
     display: flex;
